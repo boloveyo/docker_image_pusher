@@ -4,3 +4,4 @@ redis:latest
 nginx:latest
 snowdreamtech/frps:latest
 sameersbn/bind:latest
+6053537/portainer-ce
