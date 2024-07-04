@@ -1,1 +1,6 @@
 minio/minio:latest
+mysql:latest
+redis:latest
+nginx:latest
+snowdreamtech/frps:latest
+sameersbn/bind:latest
