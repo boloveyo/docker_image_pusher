@@ -1,5 +1,5 @@
 minio/minio:latest
-mysql:latest
+mysql:8.0.38
 redis:latest
 nginx:latest
 snowdreamtech/frps:latest
@@ -7,3 +7,5 @@ sameersbn/bind:latest
 6053537/portainer-ce
 openanolis/anolisos:8.8
 gitlab/gitlab-ce:latest
+openjdk:17-jdk-alpine
+adoptopenjdk/openjdk8
