@@ -1,2 +1,1 @@
-openjdk:17-jdk-alpine
-adoptopenjdk/openjdk8
+mysql:8.0.38
