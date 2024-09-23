@@ -3,3 +3,4 @@
 #logstash:8.15.1
 #mobz/elasticsearch-head:5
 synesthesiam/opentts:zh
+synesthesiam/opentts:all
