@@ -2,4 +2,4 @@
 #kibana:8.15.1
 #logstash:8.15.1
 #mobz/elasticsearch-head:5
-synesthesiam/opentts:all
+synesthesiam/opentts:zh
