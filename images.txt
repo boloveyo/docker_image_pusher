@@ -4,4 +4,5 @@
 #mobz/elasticsearch-head:5
 #synesthesiam/opentts:zh
 #synesthesiam/opentts:all
-parente/espeakbox
+#parente/espeakbox
+kubesphere/openelb:v0.5.1
