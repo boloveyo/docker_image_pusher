@@ -7,4 +7,4 @@
 #parente/espeakbox
 #kubesphere/openelb-controller:master
 #kubesphere/openelb-speaker:master
-kubesphere/kube-webhook-certgen
+kubesphere/kube-webhook-certgen:v1.1.1
