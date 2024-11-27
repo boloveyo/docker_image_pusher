@@ -15,4 +15,5 @@
 #openebs/provisioner-localpv:3.4.0
 #kubesphere/openelb-controller:v0.6.0
 #kubesphere/openelb-speaker:v0.6.0
-gitlab/gitlab-ce:latest
+#gitlab/gitlab-ce:latest
+mysql:8.4.3
