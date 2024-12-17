@@ -17,4 +17,5 @@
 #kubesphere/openelb-speaker:v0.6.0
 #gitlab/gitlab-ce:latest
 #mysql:8.4.3
-mplx/docker-webvirtcloud:latest
+#mplx/docker-webvirtcloud:latest
+openjdk:21
