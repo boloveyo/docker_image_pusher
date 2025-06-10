@@ -18,4 +18,6 @@
 #gitlab/gitlab-ce:latest
 #mysql:8.4.3
 #mplx/docker-webvirtcloud:latest
-openjdk:21
+#openjdk:21
+redis:latest
+nginx:latest
